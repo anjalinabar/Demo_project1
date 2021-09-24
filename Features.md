@@ -1,2 +1,8 @@
 Features of Notepad
-It is easy to use.
+-------------------
+***
+- Edit text-based files and source code instantly.
+- Customize your view with font options.
+- Save in multiple encodings including __UTF-8__, ***UTF-16***, and _ANSI_.
+
+> Notepad is very easy to use.
